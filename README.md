@@ -1,53 +1,90 @@
-# 💫 Betty | QA & Automation Tester
-![Banner](https://img.shields.io/badge/QA%20Automation-Cypress-green?style=for-the-badge&logo=cypress&logoColor=white)
+<div align="center">
 
-🎯 **Actualmente colaborando con [RusoMDK](https://github.com/RusoMDK) como QA Automation Tester**  
-Soy analista con experiencia en **análisis de datos, procesos y QA manual**, apasionada por **automatizar pruebas, asegurar la calidad del software y optimizar procesos**.
+# 👋 Hola, soy Betty Martínez Osorio
+
+### QA Automation Tester · Cypress · Manual & Automated Testing
+
+</div>
+
+---
+
+## 💫 About Me
+
+Soy **analista con experiencia en análisis de datos, procesos y QA manual**, actualmente enfocada en **automatización de pruebas de software usando Cypress** y colaborando con **RusoMDK** en proyectos reales de testing.  
+
+- 🚀 Actualmente colaborando como **QA Automation Tester** en proyectos de Cypress para optimizar procesos y asegurar la calidad del software.  
+- 🌱 Siempre aprendiendo y profundizando en **automatización, testing avanzado y buenas prácticas de QA**.  
+- ⚡ Me motiva la mezcla de **precisión técnica** con **reportes claros y eficientes**.  
+- 👯 Abierta a colaborar en proyectos *open source* de testing, automatización y mejora de procesos.  
+- 🧠 Creo en la **automatización, documentación clara y aprendizaje continuo** como parte del flujo de trabajo diario.
+
+> “La calidad no es un acto, es un hábito.”  
+> — Betty Martínez
 
 ---
 
 ## 🌐 Connect with Me
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bettmartinez01@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tu-linkedin)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/betty-martinez-osorio/)  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/Bettuca)  
 
 ---
 
-## ⚡ Tech Stack & Tools
-![Cypress](https://img.shields.io/badge/Cypress-058a5e?style=for-the-badge&logo=cypress&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-20232a?style=for-the-badge&logo=react&logoColor=#61DAFB)
-![Angular](https://img.shields.io/badge/angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+## 🛠️ Tech Stack & Tools
+
+### 🧪 QA & Testing
+![Cypress](https://img.shields.io/badge/Cypress-058a5e?style=for-the-badge&logo=cypress&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Manual Testing](https://img.shields.io/badge/Manual_Testing-FF5733?style=for-the-badge)
+
+### 🧩 Lenguajes & Frontend
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=#61DAFB)
+
+### 🐳 Dev & Tooling
 ![Git](https://img.shields.io/badge/git-F05033?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/mongodb-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![GitLab](https://img.shields.io/badge/gitlab-181717?style=for-the-badge&logo=gitlab&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
 ## 🚀 Projects & Highlights
-### [Cypress Automation Demo](https://github.com/Bettuca/cypress-testing-demo)  
-Automatización **end-to-end** con Cypress y JavaScript. Pruebas de login, formularios y validaciones.  
 
-### [Manual QA Scripts](https://github.com/Bettuca/manual-qascripts)  
-Documentación de **QA manual**, casos de prueba y reportes de errores.  
+| Proyecto                    | Descripción                                                                 | Tech Stack                           |
+|------------------------------|---------------------------------------------------------------------------|-------------------------------------|
+| **Cypress Automation Demo**  | Pruebas automatizadas end-to-end usando Cypress y JavaScript.             | Cypress, JavaScript                  |
+| **Manual QA Scripts**        | Documentación de pruebas manuales, casos de prueba y reportes de errores. | Manual Testing, Postman              |
+| **Colaboración con RusoMDK** | Testing automatizado en proyectos reales y optimización de procesos QA.   | Cypress, Git, QA Tools               |
 
-### [Collaboration with RusoMDK](https://github.com/RusoMDK)  
-Pruebas automatizadas en proyectos reales, seguimiento de bugs y mejora de procesos con Cypress.  
+👉 Más proyectos en: [github.com/Bettuca?tab=repositories](https://github.com/Bettuca?tab=repositories)
 
 ---
 
 ## 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=Bettuca&theme=dark&show_icons=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Bettuca&theme=dark)<br/>
+![](https://nirzak-streak-stats.herokuapp.com/?user=Bettuca&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Bettuca&theme=dark&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Bettuca&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 
-## 💡 Fun Section
+### ✍️ Random QA Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+
+[![](https://visitcount.itsvg.in/api?id=Bettuca&icon=0&color=0)](https://visitcount.itsvg.in)
+
+## 💰 Support Me
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/bettymo)
+
+<!-- Crafted with ❤️ & GPRM (https://gprm.itsvg.in) -->
+
 
 
 <!-- Crafted with ❤️ and GPRM (https://gprm.itsvg.in) -->
