@@ -1,8 +1,8 @@
-# 💫 About Me
-![Banner](https://img.shields.io/badge/QA%20%26%20Automation-Ready%20to%20Code-blueviolet?style=for-the-badge&logo=appveyor)
+# 💫 Betty | QA & Automation Tester
+![Banner](https://img.shields.io/badge/QA%20Automation-Cypress-green?style=for-the-badge&logo=cypress&logoColor=white)
 
-Soy **analista con experiencia en análisis de datos, procesos y QA manual**, actualmente especializada en **pruebas automatizadas de software con Cypress**.  
-Me apasiona **optimizar procesos, asegurar la calidad del software y aprender nuevas tecnologías** para entregar productos confiables y eficientes.
+🎯 **Actualmente colaborando con [RusoMDK](https://github.com/RusoMDK) como QA Automation Tester**  
+Soy analista con experiencia en **análisis de datos, procesos y QA manual**, apasionada por **automatizar pruebas, asegurar la calidad del software y optimizar procesos**.
 
 ---
 
@@ -13,31 +13,30 @@ Me apasiona **optimizar procesos, asegurar la calidad del software y aprender nu
 
 ---
 
-## 💻 Tech Stack
+## ⚡ Tech Stack & Tools
+![Cypress](https://img.shields.io/badge/Cypress-058a5e?style=for-the-badge&logo=cypress&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Cypress](https://img.shields.io/badge/Cypress-058a5e?style=for-the-badge&logo=cypress&logoColor=white)
-![Angular](https://img.shields.io/badge/angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![React](https://img.shields.io/badge/react-20232a?style=for-the-badge&logo=react&logoColor=#61DAFB)
+![Angular](https://img.shields.io/badge/angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Git](https://img.shields.io/badge/git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/mongodb-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![GitLab](https://img.shields.io/badge/gitlab-181717?style=for-the-badge&logo=gitlab&logoColor=white)
-![Postman](https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
 ---
 
-## 📂 Featured Projects
-### [Cypress Automation Demo](https://github.com/Bettuca/cypress-testing-demo)
-Automatización de pruebas end-to-end usando **Cypress** y **JavaScript**. Incluye tests de login, formularios y validaciones.
+## 🚀 Projects & Highlights
+### [Cypress Automation Demo](https://github.com/Bettuca/cypress-testing-demo)  
+Automatización **end-to-end** con Cypress y JavaScript. Pruebas de login, formularios y validaciones.  
 
-### [Manual QA Scripts](https://github.com/Bettuca/manual-qascripts)
-Repositorio de **pruebas manuales**, casos de prueba y reportes de errores para proyectos internos.
+### [Manual QA Scripts](https://github.com/Bettuca/manual-qascripts)  
+Documentación de **QA manual**, casos de prueba y reportes de errores.  
 
-### [Automation Exercises](https://github.com/Bettuca/automation-exercises)
-Ejercicios prácticos para mejorar habilidades en **automatización de pruebas**, incluyendo mocks y pruebas unitarias.
+### [Collaboration with RusoMDK](https://github.com/RusoMDK)  
+Pruebas automatizadas en proyectos reales, seguimiento de bugs y mejora de procesos con Cypress.  
 
 ---
 
@@ -48,12 +47,8 @@ Ejercicios prácticos para mejorar habilidades en **automatización de pruebas**
 
 ---
 
-## 💰 Support Me
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/bettymo)
+## 💡 Fun Section
 
----
-
-[![](https://visitcount.itsvg.in/api?id=Bettuca&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Crafted with ❤️ and GPRM (https://gprm.itsvg.in) -->
 
